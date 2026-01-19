@@ -1,2 +1,2 @@
-# Chingmu-Raspberry-Pi-Pixhawk
-For Raspberry Pi/Pixhawk
+# Chingmu-Raspberry-Pi
+For Raspberry Pi aarch64/arm32
